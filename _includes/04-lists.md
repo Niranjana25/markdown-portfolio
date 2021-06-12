@@ -1,5 +1,4 @@
-<ul> 
-  <li>Apple</li>
-  <li>Orange</li>
-  <li>Banana</li>
-</ul>
+- Apple
+- Orange
+- Banana
+
