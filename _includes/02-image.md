@@ -1,1 +1,1 @@
-![Image](https://octodex.github.com/femalecodertocat/)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
