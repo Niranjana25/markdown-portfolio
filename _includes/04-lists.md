@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+<ul> 
+  <li>Apple</li>
+  <li>Orange</li>
+  <li>Banana</li>
+</ul>
