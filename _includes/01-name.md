@@ -1,6 +1,6 @@
 # Niranjana 
-## Btech student 
-### How are you all 
-#### Have a nice day 
-##### Be happy 
-###### Bye 
+## Fruits
+### Very healthy 
+#### An apple a day keeps doctor away 
+##### Quality factors include maturity,firmness
+###### Bye
